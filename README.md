@@ -1,7 +1,9 @@
+
+
 # Starting Up with Git and Git Bash
 
 
-##This is a simple guide to get you started up using git.
+## This is a simple guide to get you started up using git.
 
 
 - Firstly `Git` must be installed via this [Download Link](https://git-scm.com/downloads). Choose the correct operating system to run on your local machine.
@@ -38,4 +40,6 @@ id_rsa            id_rsa.pub
 **The SSH connection between the localhost and github has now been established and you are ready to begin version control of software.**
 
 
+
+![diagram](img[624].png)
 
